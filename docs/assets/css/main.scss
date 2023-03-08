@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// increase the width of main content
+$max-width: 100%;
+
+// adjust the width of right sidebar
+$right-sidebar-width-narrow: 200px;
+$right-sidebar-width: 250px;
+$right-sidebar-width-wide: 250px;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

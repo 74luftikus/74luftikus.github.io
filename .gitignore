@@ -1,0 +1,5 @@
+# ignore all in _site directory
+_site/
+
+# ignore Gemfile.lock
+Gemfile.lock

@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Categories"
+    url: /categories
+  - title: "Links"
+    url: /links
+
+# sidebar main links
+sidebar-main:
+  - title: "Categories"
+    children:
+      - title: "Jekyll"
+        url: /categories/jekyll/
+      - title: "Minimal-mistakes"
+        url: /categories/minimal-mistakes/
+      - title: "Vagrant"
+        url: /categories/vagrant/
+  - title: "Links"
+    url: /links/
