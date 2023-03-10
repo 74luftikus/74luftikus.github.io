@@ -141,6 +141,9 @@ footer:
     - label: "Terms"
       icon: "fa fa-list"
       url: "/terms/"
+    - label: "Sitemap"
+      icon: "fa fal fa-sitemap"
+      url: "/sitemap/"
 
 # Reading Files
 include:
