@@ -55,6 +55,13 @@ title: "Privacy Policy"
 
 <p align="justify">Note that <b>Luftikus' Notepad</b> has no access to or control over these cookies that are used by third-party advertisers.</p>
 
+
+<h2>Google Analytics</h2>
+
+<p align="justify">Google Analytics is enabled as a web analytics service to monitor and analyze the use of our web site. Google uses the data collected to track and monitor the use of our web site. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p>
+<p align="justify">You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js and dc.js) from sharing information with Google Analytics about visits activity.</p>
+<p align="justify">For more information on the privacy practices of Google, please visit the <a href="https://policies.google.com/privacy">Google Privacy & Terms web page</a>.</p>
+
 <h2>Third Party Privacy Policies</h2>
 
 <p align="justify"><b>Luftikus' Notepad</b>'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
