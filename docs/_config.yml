@@ -247,22 +247,22 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: jekyll-archives 
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives 
+  type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layouts:
+#    category: archive-taxonomy
+#    tag: archive-taxonomy
+#  permalinks:
+#    category: /categories/:name/
+#    tag: /tags/:name/
 
 
 # HTML Compression
@@ -300,17 +300,17 @@ defaults:
       sidebar:
         - nav: "sidebar-main"
   # tag
-  - scope:
-      path: ""
-      type: tag
-    values:
-      layout: tags
+  #- scope:
+  #    path: ""
+  #    type: tag
+  #  values:
+  #    layout: tags
   # category
-  - scope:
-      path: ""
-      type: category
-    values:
-      layout: categories
+  #- scope:
+  #    path: ""
+  #    type: category
+  #  values:
+  #    layout: categories
 
 # Added to resolve an issue:
 # https://github.com/github/pages-gem/issues/399

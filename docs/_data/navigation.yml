@@ -9,11 +9,15 @@ main:
 sidebar-main:
   - title: "Categories"
     children:
-      - title: "Jekyll"
-        url: /categories/jekyll/
-      - title: "Minimal-mistakes"
-        url: /categories/minimal-mistakes/
+      - title: "Quick-Start"
+        url: /categories/#quick-start
+      - title: "Development Environment"
+        url: /categories/#devel-env
       - title: "Vagrant"
-        url: /categories/vagrant/
+        url: /categories/#vagrant
+      - title: "Jekyll"
+        url: /categories/#jekyll
+      - title: "Minimal-mistakes"
+        url: /categories/#minimal-mistakes
   - title: "Links"
     url: /links/
