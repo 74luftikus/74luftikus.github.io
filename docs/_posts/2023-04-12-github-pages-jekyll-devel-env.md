@@ -2,6 +2,7 @@
 layout: single
 title: "Quick start for GitHub Pages using Vagrant (II)"
 date: 2023-04-12 10:12:00 +0000
+last_modified_at: 2023-04-19 09:48:00 +0000
 categories: quick-start github-pages jekyll devel-env vagrant
 ---
 
@@ -62,6 +63,8 @@ categories: quick-start github-pages jekyll devel-env vagrant
    ```
 
    NOTE: See ["Vagrant Document - Commands (CLI) > SSH"](https://developer.hashicorp.com/vagrant/docs/cli/ssh) for more details.
+
+   NOTE: PuTTY can be used for connecting to the vagrant guest machine as an alternative to `vagrant ssh` command. See ["PuTTY as an alternative to `vagrant ssh`"]({% link _posts/2023-04-19-vagrant-ssh-alternative-putty.md %}).
 
 2. Install Jekyll and its dependencies.
 
