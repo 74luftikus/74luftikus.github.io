@@ -2,6 +2,7 @@
 layout: single
 title: "Customizing minimal-mistakes Jekyll theme (III)"
 date: 2023-05-06 20:43:00 +0000
+last_modified_at: 2023-05-09 21:35:00 +0000
 categories: jekyll minimal-mistakes
 ---
 
@@ -124,7 +125,7 @@ In order to create archives similar to those using `jekyll-archives` plugin in G
    NOTE: Each category and tag can be accessed with `/categories/jekyll` and `/tags/jekyll-theme`.
 
 
-### References
+## References
 
 * [Minimal-mistakes - Archive settings](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#archive-settings)
 * [`jekyll-archives` Docs](https://github.com/jekyll/jekyll-archives/tree/master/docs)
